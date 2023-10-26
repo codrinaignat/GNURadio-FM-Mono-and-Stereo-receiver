@@ -13,3 +13,7 @@ Application features:
 - IQ diagram, in the Constellation tab.
 
 The .grc file contains the block diagram made in GNU Radio. The .py file contains the blocks configuration behind the .grc file. 
+
+The project is created using the RTL-SDR dongle. 
+
+For more details and explanations, you can contact me. 
