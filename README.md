@@ -10,4 +10,6 @@ Application features:
 - The possibility to set the reception frequency, the volume and the device gain in dB, to make the reception more qualitative;
 - Time domain display of the signal in the Time Domain tab;
 - Spectrogram of the received signal, in the Waterfall tab;
-- 
+- IQ diagram, in the Constellation tab.
+
+The .grc file contains the block diagram made in GNU Radio. The .py file contains the blocks configuration behind the .grc file. 
