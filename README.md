@@ -1,5 +1,7 @@
 # GNURadio-FM-Mono-and-Stereo-receiver
 
+This application was part of my dissertation thesis and it uses the RTL-SDR device, a cheap, popular and versatile SDR device.
+
 Application features: 
 - Configuration type selection: mono or stereo receiver, from the interface;
 - FM reception in 87 - 108MHz range;
