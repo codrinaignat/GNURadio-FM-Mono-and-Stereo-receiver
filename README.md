@@ -14,9 +14,7 @@ Application features:
 - Spectrogram of the received signal, in the Waterfall tab;
 - IQ diagram, in the Constellation tab.
 
-The .grc file contains the block diagram made in GNU Radio. The .py file contains the blocks configuration behind the .grc file. 
-
-The project is created using the RTL-SDR dongle. 
+The .grc file contains the block diagram made in GNU Radio. The .py file contains the blocks configuration behind the .grc file. The project is created using the RTL-SDR dongle. 
 
 What you need in order to use this application: RTL-SDR device, GNU Radio software installed. 
 If you want to find out more information about the RTL-SDR device, you can take a look here: https://usermanual.wiki/Document/The20Hobbyists20Guide20To20RTLSDR2020Carl20Laufer.399886352/view
