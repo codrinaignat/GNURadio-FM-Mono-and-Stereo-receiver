@@ -11,8 +11,7 @@ Application features:
 - Mono and stereo receiver received spectrum display - Frequency Domain tab, after filtering and processing of the signal;
 - The possibility to set the reception frequency, the volume and the device gain in dB, to make the reception more qualitative;
 - Time domain display of the signal in the Time Domain tab;
-- Spectrogram of the received signal, in the Waterfall tab;
-- IQ diagram, in the Constellation tab.
+- Spectrogram of the received signal, in the Waterfall tab.
 
 The .grc file contains the block diagram made in GNU Radio. The .py file contains the blocks configuration behind the .grc file. The project is created using the RTL-SDR dongle. 
 
